@@ -10,4 +10,4 @@ The simulation requires the user to input the following initial conditions:
 
 3- Number of rows/columns on the simulation grid
 
-The simulation will then output a color-mapped temperature simulation and a contour map simulation
+The simulation will then output a color-mapped temperature simulation and a contour map simulation.
